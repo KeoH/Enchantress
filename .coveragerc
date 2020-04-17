@@ -1,0 +1,7 @@
+[run]
+include=
+    *enchantress/*
+omit =
+    *examples/*
+    .tox/*
+    venv/*
